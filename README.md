@@ -1,6 +1,5 @@
 🪟 Magic Window – Guia do Usuário
 Bem-vindo ao Magic Window, seu novo assistente para organizar e personalizar janelas no Windows com estilo, praticidade e controle total.
-
 ✨ O que o Magic Window faz?
 Com o Magic Window, você pode:
 
@@ -52,7 +51,7 @@ O app altera permanentemente minhas janelas? Não. As mudanças são visuais e r
 Preciso ser administrador? Não, mas alguns recursos podem funcionar melhor com permissões elevadas.
 
 📬 Suporte
-Em caso de dúvidas, sugestões ou problemas, entre em contato com o desenvolvedor: 📧 joatham@seudominio.com.br 🌐 github.com/YHWHZERO
+Em caso de dúvidas, sugestões ou problemas, entre em contato com o desenvolvedor: 📧 silva.joatham@gmail.com 🌐 github.com/YHWHZERO
 
 🧙‍♂️ Dica final
 Experimente criar perfis como:
