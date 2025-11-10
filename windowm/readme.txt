@@ -1,3 +1,5 @@
+🪟 Magic Window – Guia do Usuário
+Bem-vindo ao Magic Window, seu novo assistente para organizar e personalizar janelas no Windows com estilo, praticidade e controle total.
 ✨ O que o Magic Window faz?
 Com o Magic Window, você pode:
 
@@ -16,7 +18,7 @@ Com o Magic Window, você pode:
 Tudo isso em uma interface moderna com tema estilo Matrix.
 
 🖥️ Como usar
-Abra o Magic Window Execute o arquivo MagicWindow.exe (ou main.py se estiver usando Python).
+Abra o Magic Window Execute o arquivo MagicWindow.exe.
 
 Selecione uma janela Use o menu suspenso para escolher a janela que deseja controlar.
 
@@ -36,10 +38,7 @@ Depois, selecione o mesmo nome e clique em “Aplicar perfil”
 
 ⚙️ Requisitos
 Windows 10 ou superior
-
-Python 3.10+ (se estiver usando a versão em código)
-
-Ou apenas o executável .exe (não precisa instalar nada)
+apenas o executável .exe (não precisa instalar nada)
 
 ❓ Dúvidas frequentes
 Posso usar com jogos ou programas em tela cheia? Alguns aplicativos com renderização especial podem não aceitar alterações de opacidade ou borda.
